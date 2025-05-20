@@ -25,13 +25,6 @@ This Quiz App allows users to answer multiple-choice questions, then displays th
 - CSS for styling and responsiveness
 - JavaScript for quiz functionality and logic
 
-## File Structure
-
-/quiz-app
-├── index.html # Main HTML page
-├── style.css # CSS styling
-└── script.js # JavaScript quiz logic
-
 ## How to Customize
 
 - Edit or add questions in the `script.js` file.
